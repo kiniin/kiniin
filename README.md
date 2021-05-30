@@ -4,8 +4,8 @@
 ### 🚀 About Me
 - 🎓 Majoring in e-Commerce and law (BUPT)  
 - 👀 I'm currently focusing on **web** and **Python**
-- ⚙️ I use daily: `.java`, `.js`, `.html`, `.css`.
+- ⚙️ I use daily: `.java`, `.js`, `.vue`, `.py`.
 - 🔭 I'm currently learning **Vue.js**
 - 💬 Ask me about: everything especially about **tech, fictions, movies**
 - **I** ❤️ **to learn, code, and explore new things**
-- 🔥 On Progress Project: a mall website 
+- 🔥 On Progress Project: Digital-Gym-System 
